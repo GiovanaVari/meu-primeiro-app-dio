@@ -1,5 +1,6 @@
 # meu-primeiro-app-dio
 Esse projeto tem o objetivo de realizar um desafio para os alunos do curso de Android na DIO
+
 ![OlaMundo-Espanhol_PrimeiroAppDio](https://github.com/GiovanaVari/meu-primeiro-app-dio/assets/71236491/775d9f54-c762-4bd2-8dc1-c190a2b02542)
 ![OlaMundo-Coreano_PrimeiroAppDio](https://github.com/GiovanaVari/meu-primeiro-app-dio/assets/71236491/7c6c9a5a-e025-4c52-8e77-53ad47cf83d8)
 ![OlaMundo-Alemao_PrimeiroAppDio](https://github.com/GiovanaVari/meu-primeiro-app-dio/assets/71236491/7f8160ac-ea83-4f87-828a-3b3dd81acbb3)
